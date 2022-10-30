@@ -1,0 +1,211 @@
+Item,Category,Year,Sales,Sales last year,Sales growth 
+Apple,Fruit,2015,90,,
+Apple,Fruit,2016,41,90,-0.544444444
+Apple,Fruit,2017,71,41,0.731707317
+Apple,Fruit,2018,59,71,-0.169014085
+Apple,Fruit,2019,41,59,-0.305084746
+Apple,Fruit,2010,25,41,-0.390243902
+Apple,Fruit,2011,75,25,2
+Apple,Fruit,2012,62,75,-0.173333333
+Apple,Fruit,2013,96,62,0.548387097
+Apple,Fruit,2014,39,96,-0.59375
+Brocolli,Vegetables,2015,32,,
+Brocolli,Vegetables,2016,17,32,-0.46875
+Brocolli,Vegetables,2017,45,17,1.647058824
+Brocolli,Vegetables,2018,44,45,-0.022222222
+Brocolli,Vegetables,2019,47,44,0.068181818
+Brocolli,Vegetables,2010,14,47,-0.70212766
+Brocolli,Vegetables,2011,76,14,4.428571429
+Brocolli,Vegetables,2012,74,76,-0.026315789
+Brocolli,Vegetables,2013,22,74,-0.702702703
+Brocolli,Vegetables,2014,21,22,-0.045454545
+Cauliflower,Vegetables,2015,96,,
+Cauliflower,Vegetables,2016,96,96,0
+Cauliflower,Vegetables,2017,83,96,-0.135416667
+Cauliflower,Vegetables,2018,26,83,-0.686746988
+Cauliflower,Vegetables,2019,68,26,1.615384615
+Cauliflower,Vegetables,2010,61,68,-0.102941176
+Cauliflower,Vegetables,2011,72,61,0.180327869
+Cauliflower,Vegetables,2012,92,72,0.277777778
+Cauliflower,Vegetables,2013,79,92,-0.141304348
+Cauliflower,Vegetables,2014,17,79,-0.784810127
+Orange,Fruit,2015,83,,
+Orange,Fruit,2016,91,83,0.096385542
+Orange,Fruit,2017,59,91,-0.351648352
+Orange,Fruit,2018,38,59,-0.355932203
+Orange,Fruit,2019,41,38,0.078947368
+Orange,Fruit,2010,40,41,-0.024390244
+Orange,Fruit,2011,44,40,0.1
+Orange,Fruit,2012,48,44,0.090909091
+Orange,Fruit,2013,87,48,0.8125
+Orange,Fruit,2014,20,87,-0.770114943
+Spinach,Vegetables,2015,38,,
+Spinach,Vegetables,2016,31,38,-0.184210526
+Spinach,Vegetables,2017,95,31,2.064516129
+Spinach,Vegetables,2018,77,95,-0.189473684
+Spinach,Vegetables,2019,21,77,-0.727272727
+Spinach,Vegetables,2010,41,21,0.952380952
+Spinach,Vegetables,2011,51,41,0.243902439
+Spinach,Vegetables,2012,68,51,0.333333333
+Spinach,Vegetables,2013,45,68,-0.338235294
+Spinach,Vegetables,2014,73,45,0.622222222
+Strawberry,Fruit,2015,33,,
+Strawberry,Fruit,2016,77,33,1.333333333
+Strawberry,Fruit,2017,13,77,-0.831168831
+Strawberry,Fruit,2018,26,13,1
+Strawberry,Fruit,2019,37,26,0.423076923
+Strawberry,Fruit,2010,93,37,1.513513514
+Strawberry,Fruit,2011,41,93,-0.559139785
+Strawberry,Fruit,2012,88,41,1.146341463
+Strawberry,Fruit,2013,38,88,-0.568181818
+Strawberry,Fruit,2014,27,38,-0.289473684
+Lychee,Fruit,2015,83,,
+Lychee,Fruit,2016,21,83,-0.746987952
+Lychee,Fruit,2017,18,21,-0.142857143
+Lychee,Fruit,2018,40,18,1.222222222
+Lychee,Fruit,2019,73,40,0.825
+Lychee,Fruit,2010,16,73,-0.780821918
+Lychee,Fruit,2011,39,16,1.4375
+Lychee,Fruit,2012,22,39,-0.435897436
+Lychee,Fruit,2013,82,22,2.727272727
+Lychee,Fruit,2014,48,82,-0.414634146
+Carrot,Vegetables,2015,12,,
+Carrot,Vegetables,2016,29,12,1.416666667
+Carrot,Vegetables,2017,46,29,0.586206897
+Carrot,Vegetables,2018,14,46,-0.695652174
+Carrot,Vegetables,2019,97,14,5.928571429
+Carrot,Vegetables,2010,59,97,-0.391752577
+Carrot,Vegetables,2011,41,59,-0.305084746
+Carrot,Vegetables,2012,90,41,1.195121951
+Carrot,Vegetables,2013,11,90,-0.877777778
+Carrot,Vegetables,2014,10,11,-0.090909091
+Brinjal,Vegetables,2015,98,,
+Brinjal,Vegetables,2016,69,98,-0.295918367
+Brinjal,Vegetables,2017,25,69,-0.637681159
+Brinjal,Vegetables,2018,45,25,0.8
+Brinjal,Vegetables,2019,76,45,0.688888889
+Brinjal,Vegetables,2010,34,76,-0.552631579
+Brinjal,Vegetables,2011,47,34,0.382352941
+Brinjal,Vegetables,2012,81,47,0.723404255
+Brinjal,Vegetables,2013,12,81,-0.851851852
+Brinjal,Vegetables,2014,69,12,4.75
+Avocados,Fruit,2015,50,,
+Avocados,Fruit,2016,63,50,0.26
+Avocados,Fruit,2017,15,63,-0.761904762
+Avocados,Fruit,2018,71,15,3.733333333
+Avocados,Fruit,2019,61,71,-0.14084507
+Avocados,Fruit,2010,45,61,-0.262295082
+Avocados,Fruit,2011,26,45,-0.422222222
+Avocados,Fruit,2012,53,26,1.038461538
+Avocados,Fruit,2013,41,53,-0.226415094
+Avocados,Fruit,2014,42,41,0.024390244
+Asparagus,Vegetables,2015,95,,
+Asparagus,Vegetables,2016,31,95,-0.673684211
+Asparagus,Vegetables,2017,82,31,1.64516129
+Asparagus,Vegetables,2018,85,82,0.036585366
+Asparagus,Vegetables,2019,46,85,-0.458823529
+Asparagus,Vegetables,2010,65,46,0.413043478
+Asparagus,Vegetables,2011,45,65,-0.307692308
+Asparagus,Vegetables,2012,45,45,0
+Asparagus,Vegetables,2013,46,45,0.022222222
+Asparagus,Vegetables,2014,80,46,0.739130435
+Blueberries,Fruit,2015,48,,
+Blueberries,Fruit,2016,87,48,0.8125
+Blueberries,Fruit,2017,76,87,-0.126436782
+Blueberries,Fruit,2018,10,76,-0.868421053
+Blueberries,Fruit,2019,84,10,7.4
+Blueberries,Fruit,2010,35,84,-0.583333333
+Blueberries,Fruit,2011,64,35,0.828571429
+Blueberries,Fruit,2012,20,64,-0.6875
+Blueberries,Fruit,2013,66,20,2.3
+Blueberries,Fruit,2014,19,66,-0.712121212
+Rose,Seeds,2010,80,,
+Rose,Seeds,2011,49,80,-0.3875
+Rose,Seeds,2012,10,49,-0.795918367
+Rose,Seeds,2013,59,10,4.9
+Rose,Seeds,2014,71,59,0.203389831
+Rose,Seeds,2015,67,71,-0.056338028
+Rose,Seeds,2016,75,67,0.119402985
+Rose,Seeds,2017,92,75,0.226666667
+Rose,Seeds,2018,26,92,-0.717391304
+Rose,Seeds,2019,34,26,0.307692308
+Palm,Seeds,2010,57,,
+Palm,Seeds,2011,68,57,0.192982456
+Palm,Seeds,2012,33,68,-0.514705882
+Palm,Seeds,2013,15,33,-0.545454545
+Palm,Seeds,2014,88,15,4.866666667
+Palm,Seeds,2015,39,88,-0.556818182
+Palm,Seeds,2016,43,39,0.102564103
+Palm,Seeds,2017,90,43,1.093023256
+Palm,Seeds,2018,16,90,-0.822222222
+Palm,Seeds,2019,17,16,0.0625
+Hibuscus,Seeds,2010,23,,
+Hibuscus,Seeds,2011,28,23,0.217391304
+Hibuscus,Seeds,2012,20,28,-0.285714286
+Hibuscus,Seeds,2013,96,20,3.8
+Hibuscus,Seeds,2014,55,96,-0.427083333
+Hibuscus,Seeds,2015,14,55,-0.745454545
+Hibuscus,Seeds,2016,23,14,0.642857143
+Hibuscus,Seeds,2017,10,23,-0.565217391
+Hibuscus,Seeds,2018,76,10,6.6
+Hibuscus,Seeds,2019,68,76,-0.105263158
+Onions,Roots,2010,10,,
+Onions,Roots,2011,78,10,6.8
+Onions,Roots,2012,54,78,-0.307692308
+Onions,Roots,2013,17,54,-0.685185185
+Onions,Roots,2014,12,17,-0.294117647
+Onions,Roots,2015,89,12,6.416666667
+Onions,Roots,2016,27,89,-0.696629213
+Onions,Roots,2017,51,27,0.888888889
+Onions,Roots,2018,48,51,-0.058823529
+Onions,Roots,2019,58,48,0.208333333
+Radish,Roots,2010,64,,
+Radish,Roots,2011,45,64,-0.296875
+Radish,Roots,2012,48,45,0.066666667
+Radish,Roots,2013,73,48,0.520833333
+Radish,Roots,2014,79,73,0.082191781
+Radish,Roots,2015,18,79,-0.772151899
+Radish,Roots,2016,74,18,3.111111111
+Radish,Roots,2017,82,74,0.108108108
+Radish,Roots,2018,58,82,-0.292682927
+Radish,Roots,2019,34,58,-0.413793103
+Ginger,Roots,2010,98,,
+Ginger,Roots,2011,68,98,-0.306122449
+Ginger,Roots,2012,50,68,-0.264705882
+Ginger,Roots,2013,72,50,0.44
+Ginger,Roots,2014,12,72,-0.833333333
+Ginger,Roots,2015,90,12,6.5
+Ginger,Roots,2016,90,90,0
+Ginger,Roots,2017,15,90,-0.833333333
+Ginger,Roots,2018,87,15,4.8
+Ginger,Roots,2019,86,87,-0.011494253
+Money Plant,Plants,2010,74,,
+Money Plant,Plants,2011,88,74,0.189189189
+Money Plant,Plants,2012,51,88,-0.420454545
+Money Plant,Plants,2013,39,51,-0.235294118
+Money Plant,Plants,2014,75,39,0.923076923
+Money Plant,Plants,2015,32,75,-0.573333333
+Money Plant,Plants,2016,27,32,-0.15625
+Money Plant,Plants,2017,80,27,1.962962963
+Money Plant,Plants,2018,63,80,-0.2125
+Money Plant,Plants,2019,36,63,-0.428571429
+Aloe Vera,Plants,2010,27,,
+Aloe Vera,Plants,2011,31,27,0.148148148
+Aloe Vera,Plants,2012,99,31,2.193548387
+Aloe Vera,Plants,2013,10,99,-0.898989899
+Aloe Vera,Plants,2014,60,10,5
+Aloe Vera,Plants,2015,31,60,-0.483333333
+Aloe Vera,Plants,2016,90,31,1.903225806
+Aloe Vera,Plants,2017,87,90,-0.033333333
+Aloe Vera,Plants,2018,30,87,-0.655172414
+Aloe Vera,Plants,2019,43,30,0.433333333
+Tomato,Plants,2010,100,,
+Tomato,Plants,2011,72,100,-0.28
+Tomato,Plants,2012,95,72,0.319444444
+Tomato,Plants,2013,28,95,-0.705263158
+Tomato,Plants,2014,45,28,0.607142857
+Tomato,Plants,2015,60,45,0.333333333
+Tomato,Plants,2016,49,60,-0.183333333
+Tomato,Plants,2017,10,49,-0.795918367
+Tomato,Plants,2018,35,10,2.5
+Tomato,Plants,2019,35,35,0
